@@ -1,4 +1,6 @@
-## React App Template
+## React App Singer's Top Tracks
+
+Search any singer's name, the request returns the singer's Top Tracks
 
 Clone or download this project to bootstrap a React project!
 
@@ -10,4 +12,8 @@ Install the relevant `node_modules` and fire up the development server:
 npm i && npm run dev
 ```
 
-publish to Github Pages: https://segmentfault.com/a/1190000013090598
+API source: https://github.com/15Dkatz/spotify-api-wrapper
+
+DEMO: https://yingchieh.github.io/react-app-template-master/
+
+how to publish to Github Pages: https://segmentfault.com/a/1190000013090598
