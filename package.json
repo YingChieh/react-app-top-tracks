@@ -8,7 +8,7 @@
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "start": "npm run build && live-server dist",
-    "gh": "gh-pages -d dist"
+    "gh": "npm run build && gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
@@ -20,5 +20,8 @@
     "parcel-bundler": "^1.12.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
