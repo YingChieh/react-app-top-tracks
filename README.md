@@ -9,3 +9,5 @@ Install the relevant `node_modules` and fire up the development server:
 ```
 npm i && npm run dev
 ```
+
+publish to Github Pages: https://segmentfault.com/a/1190000013090598
