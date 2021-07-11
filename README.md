@@ -17,3 +17,4 @@ npm i && npm run dev
 API source: https://github.com/15Dkatz/spotify-api-wrapper
 
 how to publish to Github Pages: https://segmentfault.com/a/1190000013090598
+https://ithelp.ithome.com.tw/articles/10228423
